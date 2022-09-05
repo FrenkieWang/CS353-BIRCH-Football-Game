@@ -29,12 +29,11 @@ Search → Replace
 You can also see the video I attached, this will tell you how to run our program.
 
 
-# CS353-BIRCH-Football-Game
-ScreenCast Video
+# ScreenCast Video
 https://drive.google.com/file/d/1gaYa4K3JWfMGwhlZKLYSWjt8mysxdrF4/view?usp=sharing
 
-Group Presentation PPT
+# Group Presentation PPT
 https://drive.google.com/file/d/12svOxc7xC3pSAc2wYbwOZVirNYBjEX-Q/view?usp=sharing
 
-Group Report doc.
+# Group Report document
 https://drive.google.com/file/d/1vi6YDPwcPqvCvNNya5kYp3dHornVoz9v/view?usp=sharing
