@@ -27,3 +27,13 @@ If your port 5000 is occupied, please change the port to 8000.
 Search → Replace
 
 You can also see the video I attached, this will tell you how to run our program.
+
+
+Presentation
+https://docs.google.com/presentation/d/1yzsL89IQf0Ds4wHL_JiE7GTSaVBGMJzt9Lqh6L47kPo/edit?usp=sharing
+
+Demo
+https://build.cloud.unity3d.com/share/Wy-mBbQZWZ/ [deployed 13/04/16]
+
+Git remotes
+git@github.com:koHd/AgentBasedModel_Chemotaxis.git
