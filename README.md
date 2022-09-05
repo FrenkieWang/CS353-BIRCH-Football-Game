@@ -29,11 +29,11 @@ Search → Replace
 You can also see the video I attached, this will tell you how to run our program.
 
 
-Presentation
-https://docs.google.com/presentation/d/1yzsL89IQf0Ds4wHL_JiE7GTSaVBGMJzt9Lqh6L47kPo/edit?usp=sharing
+ScreenCast Video
+https://drive.google.com/file/d/1gaYa4K3JWfMGwhlZKLYSWjt8mysxdrF4/view?usp=sharing
 
-Demo
-https://build.cloud.unity3d.com/share/Wy-mBbQZWZ/ [deployed 13/04/16]
+Group Presentation PPT
+https://drive.google.com/file/d/12svOxc7xC3pSAc2wYbwOZVirNYBjEX-Q/view?usp=sharing
 
-Git remotes
-git@github.com:koHd/AgentBasedModel_Chemotaxis.git
+Group Report doc.
+https://drive.google.com/file/d/1vi6YDPwcPqvCvNNya5kYp3dHornVoz9v/view?usp=sharing
